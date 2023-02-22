@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luiza
 - 👀 I’m interested in test automation  
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on various projects
 - 📫 You can reach me at comanluiza1@gmail.com
 
